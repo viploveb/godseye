@@ -10,6 +10,7 @@ pip install nltk
 ```
 ## Capabilities
 user can open or use following commands and tools-
+ - '--help'
  - say hello
  - ask date or time
  - open google chrome
@@ -33,6 +34,6 @@ nltk.download('punkt')
 
 exceptable keywords for running program are- run, execute, open with few exceptions like - "run url [url]", "open [folder\file name]", "enabel wifi", "disable wifi", "search [query]", "shutdown", "restart"
 
-for wifi capabilities copy path of bat files in source code in line numbers 92 and 96
+for wifi capabilities copy path of bat files in source code
 
 **if you disable wifi using godseye then do not forget to turn it on using godseye only otherwise there might be some issues**
